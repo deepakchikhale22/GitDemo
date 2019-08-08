@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="132" started-at="2019-07-31T19:56:00Z" finished-at="2019-07-31T19:56:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="132" started-at="2019-07-31T19:56:00Z" finished-at="2019-07-31T19:56:01Z">
+      <class name="qaclickacadmy.RestapiTest">
+        <test-method status="PASS" signature="restapibrowserautomation()[pri:0, instance:qaclickacadmy.RestapiTest@b97c004]" name="restapibrowserautomation" duration-ms="0" started-at="2019-07-31T19:56:01Z" finished-at="2019-07-31T19:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restapibrowserautomation -->
+        <test-method status="PASS" signature="restapielementsui()[pri:0, instance:qaclickacadmy.RestapiTest@b97c004]" name="restapielementsui" duration-ms="0" started-at="2019-07-31T19:56:01Z" finished-at="2019-07-31T19:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restapielementsui -->
+      </class> <!-- qaclickacadmy.RestapiTest -->
+      <class name="qaclickacadmy.AppiumTest">
+        <test-method status="PASS" signature="mobilebrowserautomation()[pri:0, instance:qaclickacadmy.AppiumTest@3c09711b]" name="mobilebrowserautomation" duration-ms="8" started-at="2019-07-31T19:56:01Z" finished-at="2019-07-31T19:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilebrowserautomation -->
+        <test-method status="PASS" signature="mobileelementsui()[pri:0, instance:qaclickacadmy.AppiumTest@3c09711b]" name="mobileelementsui" duration-ms="0" started-at="2019-07-31T19:56:01Z" finished-at="2019-07-31T19:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileelementsui -->
+      </class> <!-- qaclickacadmy.AppiumTest -->
+      <class name="qaclickacadmy.SeleniumTest">
+        <test-method status="PASS" signature="browserautomation()[pri:0, instance:qaclickacadmy.SeleniumTest@5cc7c2a6]" name="browserautomation" duration-ms="0" started-at="2019-07-31T19:56:01Z" finished-at="2019-07-31T19:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserautomation -->
+        <test-method status="PASS" signature="elementsui()[pri:0, instance:qaclickacadmy.SeleniumTest@5cc7c2a6]" name="elementsui" duration-ms="0" started-at="2019-07-31T19:56:01Z" finished-at="2019-07-31T19:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsui -->
+      </class> <!-- qaclickacadmy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
