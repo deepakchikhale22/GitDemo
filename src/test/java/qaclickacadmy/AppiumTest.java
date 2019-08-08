@@ -8,6 +8,9 @@ public class AppiumTest
 	public void mobilebrowserautomation()
 	{
 		System.out.println("mobilebrowserautomation");
+		System.out.println("in browserautomation1");
+		System.out.println("in browserautomation2");
+		System.out.println("in browserautomation3");
 
 	}
 	@Test
