@@ -7,6 +7,9 @@ public class SeleniumTest {
 	public void browserautomation()
 	{
 		System.out.println("in browserautomation");
+		System.out.println("in browserautomation1");
+		System.out.println("in browserautomation2");
+
 
 	}
 
